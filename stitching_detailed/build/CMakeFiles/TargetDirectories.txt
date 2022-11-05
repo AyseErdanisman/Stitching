@@ -1,0 +1,3 @@
+/home/arge13-ubuntu/Desktop/360/full/stitching_detailed/build/CMakeFiles/rebuild_cache.dir
+/home/arge13-ubuntu/Desktop/360/full/stitching_detailed/build/CMakeFiles/edit_cache.dir
+/home/arge13-ubuntu/Desktop/360/full/stitching_detailed/build/CMakeFiles/hello-opencv.dir
